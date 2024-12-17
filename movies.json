@@ -1,0 +1,95 @@
+[
+    {
+        "id": 3,
+        "title": "Gladiator",
+        "sessions": [
+            {
+                "time": "10:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "13:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "16:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "19:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "22:00",
+                "reserved_seats": [],
+                "users": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Gladiator",
+        "sessions": [
+            {
+                "time": "10:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "13:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "16:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "19:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "22:00",
+                "reserved_seats": [],
+                "users": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "aa",
+        "sessions": [
+            {
+                "time": "10:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "13:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "16:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "19:00",
+                "reserved_seats": [],
+                "users": []
+            },
+            {
+                "time": "22:00",
+                "reserved_seats": [],
+                "users": []
+            }
+        ]
+    }
+]

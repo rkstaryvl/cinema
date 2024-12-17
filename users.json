@@ -1,0 +1,56 @@
+[
+    {
+        "name": "kutman",
+        "password": "12345",
+        "purchased_tickets": [
+            "13:00 - C5",
+            "13:00 - C4",
+            "13:00 - D3",
+            "10:00 - A3",
+            "10:00 - A4",
+            "10:00 - A7",
+            "10:00 - A6",
+            "10:00 - C5",
+            "10:00 - C6",
+            "10:00 - B8",
+            "10:00 - C8",
+            "16:00 - B6",
+            "16:00 - B5",
+            "16:00 - B4"
+        ]
+    },
+    {
+        "name": "admin",
+        "password": "admin",
+        "purchased_tickets": [
+            "16:00 - C6"
+        ]
+    },
+    {
+        "name": "tttt",
+        "password": "12345",
+        "purchased_tickets": [
+            "19:00 - B5",
+            "19:00 - B6",
+            "19:00 - B7"
+        ]
+    },
+    {
+        "name": "ttt",
+        "password": "12345",
+        "purchased_tickets": [
+            "16:00 - D4",
+            "16:00 - D5",
+            "16:00 - D6"
+        ]
+    },
+    {
+        "name": "kutman1",
+        "password": "12345",
+        "purchased_tickets": [
+            "19:00 - B5",
+            "19:00 - B6",
+            "19:00 - B7"
+        ]
+    }
+]
